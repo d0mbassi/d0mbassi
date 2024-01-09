@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @d0mbassi
+- 👀 I’m interested in learning  
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact: I speak 3 languages
